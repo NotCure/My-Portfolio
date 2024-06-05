@@ -37,6 +37,10 @@ const initialProjects: Project[] = [
     id: 2,
     title: "Designs",
   },
+  {
+    id: 3,
+    title: "Contact Me",
+  },
 ];
 
 const SortableItem = ({
